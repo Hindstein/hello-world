@@ -1,6 +1,6 @@
 # hello-world
 First "R" Github repository
-# My first Project
+# My first "R" Project
 ## **Course**: Geography 176A
 ## **Name**: Ian Hinds
 ## **Year**: 2020
